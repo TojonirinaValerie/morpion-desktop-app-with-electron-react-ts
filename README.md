@@ -8,4 +8,4 @@ For this you’ll need to use two separate tabs or windows in your terminal. The
 
   1.2. For Electron:
 
-### `npm run electron`
+### `npm run start-electron`
